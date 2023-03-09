@@ -10,7 +10,9 @@ body {
 .nav-wrapper{
   margin: 0 20px;
 }
-
+.spinner-layer{
+  border-color: #f44336;
+}
 .main-content {
   min-height: calc(100vh - 50px - 63.99px);
   padding-top: 50px;
